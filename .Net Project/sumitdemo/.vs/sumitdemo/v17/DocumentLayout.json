@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.Net Project\\sumitdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|f:\\.net project\\sumitdemo\\sumitdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|solutionrelative:sumitdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|f:\\.net project\\sumitdemo\\sumitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|solutionrelative:sumitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|f:\\.net project\\sumitdemo\\sumitdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|solutionrelative:sumitdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|f:\\.net project\\sumitdemo\\sumitdemo\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|solutionrelative:sumitdemo\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|f:\\.net project\\sumitdemo\\sumitdemo\\interface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|solutionrelative:sumitdemo\\interface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|f:\\.net project\\sumitdemo\\sumitdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|solutionrelative:sumitdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|f:\\.net project\\sumitdemo\\sumitdemo\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F087AD-1654-489E-840B-0F5E6D8BF936}|sumitdemo\\sumitdemo.csproj|solutionrelative:sumitdemo\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Program.cs",
+              "RelativeDocumentMoniker": "sumitdemo\\Program.cs",
+              "ToolTip": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Program.cs",
+              "RelativeToolTip": "sumitdemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:05:57.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "sumitdemo\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "sumitdemo\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:03:26.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Studentservice.cs",
+              "DocumentMoniker": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Service\\Studentservice.cs",
+              "RelativeDocumentMoniker": "sumitdemo\\Service\\Studentservice.cs",
+              "ToolTip": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Service\\Studentservice.cs",
+              "RelativeToolTip": "sumitdemo\\Service\\Studentservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:58:30.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Interface\\IStudent.cs",
+              "RelativeDocumentMoniker": "sumitdemo\\Interface\\IStudent.cs",
+              "ToolTip": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Interface\\IStudent.cs",
+              "RelativeToolTip": "sumitdemo\\Interface\\IStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:56:47.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "sumitdemo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "sumitdemo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:47:18.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "sumitdemo\\Model\\Student.cs",
+              "ToolTip": "F:\\.Net Project\\sumitdemo\\sumitdemo\\Model\\Student.cs",
+              "RelativeToolTip": "sumitdemo\\Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:45:01.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\.Net Project\\sumitdemo\\sumitdemo\\appsettings.json",
+              "RelativeDocumentMoniker": "sumitdemo\\appsettings.json",
+              "ToolTip": "F:\\.Net Project\\sumitdemo\\sumitdemo\\appsettings.json",
+              "RelativeToolTip": "sumitdemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T15:32:00.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
