@@ -1,6 +1,7 @@
 import { Code, Database, Layout, Palette, Shield, Smartphone, Server, Brain } from 'lucide-react';
 import { Link } from 'react-router';
 
+
 const categories = [
   { name: 'Web Development', slug: 'web-development', icon: Layout, color: 'bg-blue-500', count: 45 },
   { name: 'Programming', slug: 'programming', icon: Code, color: 'bg-purple-500', count: 38 },
